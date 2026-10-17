@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Yoav
 
-<!--
-**yoavyo0807/yoavyo0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational linguist based in Barcelona. I work on NLU, speech technology and language AI quality, mainly Hebrew, and I lead multilingual quality work across 20+ languages.
 
-Here are some ideas to get you started:
+**What I work on**
+- Annotation guidelines, evaluation and quality processes for language AI
+- NLU, ASR and TTS data, text normalization and pronunciation resources
+- Corpus-based statistical analysis (R, Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+- [ruuli-augment-analysis](https://github.com/yoavyo0807/ruuli-augment-analysis): multivariate corpus study with Random Forests and conditional inference trees
+- [toxic-comment-detection](https://github.com/yoavyo0807/toxic-comment-detection): DistilBERT multi-label classifier for harmful chat messages
+- [Bike-Rental-Prediction](https://github.com/yoavyo0807/Bike-Rental-Prediction): regression models compared with RMSLE
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/yoav-yosef/)
